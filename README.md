@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PeterSaletra&theme=dark&hide_border=false)<br/>
 # 👨🏻‍💻 TryHackMe:
-[<img src="https://tryhackme-badges.s3.amazonaws.com/asasinxd04.png" alt="Your Image Badge" />](https://tryhackme.com/r/p/asasinxd04)
+[<div><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=655568" style='border:none;'></iframe></div>](https://tryhackme.com/r/p/asasinxd04)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PeterSaletra&icon=0&color=0)](https://visitcount.itsvg.in)
