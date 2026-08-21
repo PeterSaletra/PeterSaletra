@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 Student at Cracow University of Technology 3 year<br>👷‍♂️ Currently working Cisco as Software Engineer<br>🖥️ Low Level Coding/Backend
+🧑‍🎓 Student at Cracow University of Technology 4 year<br>👷‍♂️ Currently working Cisco as Software Engineer<br>🖥️ Low Level Coding/Backend
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-saletra/)
 # 💻 Tech Stack:
